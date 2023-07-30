@@ -13,11 +13,25 @@
             "scaleInEditor": 1
         },
         "level_01.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 1,
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.1308,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 273.3333333333333,
-                "y": 127.33333333333331
+                "x": 320.12734347364693,
+                "y": 266.6253979483551
+            }
+        },
+        "level_02.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.9974999999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.8020050125314,
+                "y": 184.9624060150376
             }
         }
     },
