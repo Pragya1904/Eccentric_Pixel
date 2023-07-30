@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level_01.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Eccentric Pixel.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_01.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 273.3333333333333,
+                "y": 127.33333333333331
+            }
+        }
+    },
+    "last.imagePath": "D:/AndroidStudioProjects/eccentric_pixel/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Eccentric Pixel.tsx",
+        "level_01.tmx"
+    ],
+    "project": "Eccentric Pixel.tiled-project",
+    "recentFiles": [
+        "Eccentric Pixel.tsx",
+        "level_01.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
